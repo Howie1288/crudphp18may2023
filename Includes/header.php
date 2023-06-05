@@ -9,7 +9,7 @@
         body{
             /* background-image: url('/crudphp18may2023/assets/images/fondo.jpg') !important;
             background-size:cover; */
-
+            text-align: justify;
         }
     </style>
     <title>App de Tienda</title>
